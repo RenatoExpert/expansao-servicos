@@ -7,7 +7,7 @@ to-do
 
 Structure
 [ ] Menu
-[ ] News
+[ ] Offer
 [ ] What we provide
 [ ] Portifolio
 [ ] Contact

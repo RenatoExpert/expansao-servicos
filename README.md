@@ -10,4 +10,5 @@ Structure
 - [ ] Offer
 - [ ] What we provide
 - [ ] Portifolio
+- [ ] News
 - [ ] Contact
